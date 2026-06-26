@@ -1,7 +1,7 @@
 # pluto-Data-Analytics-Internship
 # 📊 Pluto Academy — Data Analytics Internship Projects
 
-> **Intern:** [Your Name]
+> **Intern:** Butcha laxmana Rao
 > **Program:** Data Analytics Internship — Pluto Academy
 > **Duration:** 1 Month | Fully Remote | Self-Paced
 > **Tools Used:** Python · Pandas · Matplotlib · Seaborn · Power BI · SQL · Excel
